@@ -1,0 +1,34 @@
+html{
+	margin:0;
+	padding:0;
+}
+
+body{
+	text-align:center;
+	background-color:red;
+	font-family:'impact';
+}
+img{
+	height:100px;
+	width:100px;
+}
+.pirateBoxContainer{	
+	color:white;
+	background-color:black;
+	height:600px;
+	width:600px;
+}
+.gridContainer{
+	background-color:white;
+	height:400px;
+	width:400px;
+}
+.grid{
+	background-color:grey;
+	height:300px;
+	width:300px;
+}
+.Robert:hover{
+	color:red;
+	cursor:default;
+}
